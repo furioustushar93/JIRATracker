@@ -1,0 +1,27 @@
+INFO:     Will watch for changes in these directories: ['/Users/tusharaggarwal/Documents/Self-Learning/JIRA_Ticket/backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [59549] using WatchFiles
+INFO:     Started server process [59552]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:52281 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52281 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52281 - "GET /api/users/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52281 - "GET /api/users/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52292 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52292 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52296 - "GET /api/users/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52298 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52300 - "GET /api/tickets/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52296 - "GET /api/users/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52298 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52300 - "GET /api/tickets/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52300 - "GET /api/users/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52300 - "GET /api/users/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52300 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52300 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [59552]
+INFO:     Stopping reloader process [59549]
